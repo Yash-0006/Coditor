@@ -41,6 +41,7 @@ background-color: black;
 }
 
 .navbar{
+    border-bottom: 2px solid hsl(225, 6%, 10%);
     background-color: black;
     color: white;
     margin:0;

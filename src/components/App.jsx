@@ -1,13 +1,13 @@
 import React,{useState, useEffect} from "react";
 import Editor from "./Editor";
 import { NavBar } from "./NavBar";
-import UseLocalStorage from "../hooks/UseLocalStorage";
+//import UseLocalStorage from "../hooks/UseLocalStorage";
 
 function App() {
 
-  const[html,setHtml]=UseLocalStorage('html','')
-  const[css,setCss]=UseLocalStorage('css','')
-  const[js,setJs]=UseLocalStorage('js','')
+  const[html,setHtml]=useState("")//UseLocalStorage('html','')
+  const[css,setCss]=useState("")//UseLocalStorage('css','')
+  const[js,setJs]=useState("")//UseLocalStorage('js','')
   const[srcDoc,setSrcDoc]=useState("")
 
   useEffect(()=>{
