@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yash-0006/Coditor/static/css/main.95cad855.css",
+    "main.js": "/Yash-0006/Coditor/static/js/main.8d6b9984.js",
+    "index.html": "/Yash-0006/Coditor/index.html",
+    "main.95cad855.css.map": "/Yash-0006/Coditor/static/css/main.95cad855.css.map",
+    "main.8d6b9984.js.map": "/Yash-0006/Coditor/static/js/main.8d6b9984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95cad855.css",
+    "static/js/main.8d6b9984.js"
+  ]
+}
