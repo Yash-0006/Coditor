@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Yash-0006/Coditor/static/css/main.2f778676.css",
-    "main.js": "/Yash-0006/Coditor/static/js/main.0dc5051d.js",
-    "index.html": "/Yash-0006/Coditor/index.html",
-    "main.2f778676.css.map": "/Yash-0006/Coditor/static/css/main.2f778676.css.map",
-    "main.0dc5051d.js.map": "/Yash-0006/Coditor/static/js/main.0dc5051d.js.map"
+    "main.css": "/Coditor/static/css/main.2f778676.css",
+    "main.js": "/Coditor/static/js/main.0dc5051d.js",
+    "index.html": "/Coditor/index.html",
+    "main.2f778676.css.map": "/Coditor/static/css/main.2f778676.css.map",
+    "main.0dc5051d.js.map": "/Coditor/static/js/main.0dc5051d.js.map"
   },
   "entrypoints": [
     "static/css/main.2f778676.css",
